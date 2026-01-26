@@ -1,5 +1,7 @@
 # 🧪 Experimental Graphs
 
+By Dwaipayan Datta
+
 A responsive, professional web app for generating graph paper solutions and printable reports for laboratory or classroom use.
 
 ---
