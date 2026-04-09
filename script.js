@@ -728,7 +728,7 @@ async function generatePDFReport() {
     yPos += 6;
     pdf.text(`Department: ${department}`, 20, yPos);
     yPos += 6;
-    pdf.text(`Subject Code: ${subjectCode}`, 20, yPos);
+    pdf.text(`Subject: ${subjectCode}`, 20, yPos);
     yPos += 6;
     
     // Format date as DD-MM-YYYY
